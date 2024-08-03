@@ -1,0 +1,38 @@
+VCS --> Version Control System
+GUI --> Graphical User Interface
+CLI --> Command Line Interface
+pwd --> print working directory
+
+
+mv prevoius_folder_name new_folder_name --> used to rename folder
+
+
+mv file_name destination_folder_name --> used to move file to that folder.
+
+
+git mv old_filename new_filename --> used to rename file name.
+
+git -v --> used to check version of gitbash.
+
+git init --> to initialize Git repository
+
+git add file_name or . -->  to add file in repository.
+
+git status -s and git status is used to check the status of Git repository.
+
+git commit -am "comment" -- is used to commit the version of file to save in the repository.
+
+git config --global user.email "your@gmail.com" 
+git config --global user.name "Your_name"
+
+git log --> used to see the commit history.
+
+git checkout prevoius_commit_id_key --> used to see the prevoius version of file
+
+git log --all --oneline --graph   ==> used to see short line comments with its id.
+
+git branch --delete branch_name ==> used to delete branch from repository.
+git branch -D branch_name ==> used to delete branch
+
+
+git merge branch_name ==> used to merge the branch in repository.
