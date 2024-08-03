@@ -36,3 +36,13 @@ git branch -D branch_name ==> used to delete branch
 
 
 git merge branch_name ==> used to merge the branch in repository.
+
+
+git remote show origin --> used to show that local repository is connected with remote repository or not.
+
+gti remote add origin link_of_remote_repository ==>used to link with remotw repository
+
+git branch -M main ==> used to make main branch in repository.
+
+git push -u origin main ==> used to first time push 
+
