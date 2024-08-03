@@ -36,6 +36,7 @@ git branch -D branch_name ==> used to delete branch
 
 
 git merge branch_name ==> used to merge the branch in repository.
+<<<<<<< HEAD
 
 
 git remote show origin --> used to show that local repository is connected with remote repository or not.
@@ -49,3 +50,7 @@ git push -u origin main ==> used to first time push
 git fetch ==> used to fetch commits from remote repository
 
 git merge origin/main is used to merge all fast-forward update in repository
+=======
+git merge branch_name ==> used to merge the branch in repository.
+
+>>>>>>> 205b6c22b62a67c199e6b9ca6a579dd365b93773
