@@ -50,3 +50,5 @@ git push -u origin main ==> used to first time push
 git fetch ==> used to fetch commits from remote repository
 
 git merge origin/main is used to merge all fast-forward update in repository
+
+git pull ==> used to update fast forward in remote repository.
