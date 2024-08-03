@@ -36,3 +36,5 @@ git branch -D branch_name ==> used to delete branch
 
 
 git merge branch_name ==> used to merge the branch in repository.
+git merge branch_name ==> used to merge the branch in repository.
+
