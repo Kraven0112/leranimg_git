@@ -56,3 +56,6 @@ git pull ==> used to update fast forward in remote repository.
 git reset --hard id_of_commit
 git reset --soft id_of_commit
 git reset id_of_commit
+
+
+git reflog ---> used to check the old id of commits
