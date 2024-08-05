@@ -60,3 +60,18 @@ git reset id_of_commit
 git revert id_of_commit
 
 git reflog ---> used to check the old id of commits
+
+git merge --abort ==> used to abort merging changes in the branch.
+
+git conflict is a problem when we have different changes from different user in same line of the file.
+
+
+git stash -am "commit" ==> used to statsh the incomplete work from working directory.
+
+git stash apply 1 ==> used to apply statsh 1
+
+git stash list ==> used to show stash list in git.
+
+git stash clear ==> used to clear all stash list items from statsh list.
+
+git cherrypick id_of_commit ==> used to marge particular change in file.
