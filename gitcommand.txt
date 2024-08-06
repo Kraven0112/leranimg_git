@@ -81,3 +81,11 @@ git rm --cached file_name ==> used to remove from git cache area to ignore that 
 
 git rm --cached -r folder_name ==>used to remove folder from git repo and which can be ignored.
 
+git remote ==> used to check the remote branch in repository.
+
+git remote -v ==> used to show the origin of git repository. (-v)=>view the origin
+
+git remote add base link_of_remote_repository 
+
+git restore --staged . ==> used to remove file from staging area.
+
