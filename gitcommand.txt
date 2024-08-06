@@ -89,3 +89,4 @@ git remote add base link_of_remote_repository
 
 git restore --staged . ==> used to remove file from staging area.
 
+git checkout id_of_that_before_commit file_name ==> to restore deleted file.
