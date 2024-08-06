@@ -79,4 +79,6 @@ git cherrypick id_of_commit ==> used to marge particular change in file.
 
 git rm --cached file_name ==> used to remove from git cache area to ignore that file.
 
-git rm --cached -r folder_name
+git rm --cached -r folder_name 
+
+git commands are necessary for git repository
