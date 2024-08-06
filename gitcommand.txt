@@ -75,3 +75,4 @@ git stash list ==> used to show stash list in git.
 git stash clear ==> used to clear all stash list items from statsh list.
 
 git cherrypick id_of_commit ==> used to marge particular change in file.
+.gitignore is a extension file which is used to store unnecessary file in git repository.
