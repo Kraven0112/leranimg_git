@@ -81,4 +81,3 @@ git rm --cached file_name ==> used to remove from git cache area to ignore that 
 
 git rm --cached -r folder_name ==>used to remove folder from git repo and which can be ignored.
 
-git add . ==> used to add all file
