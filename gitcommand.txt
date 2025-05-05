@@ -90,3 +90,13 @@ git remote add base link_of_remote_repository
 git restore --staged . ==> used to remove file from staging area.
 
 git checkout id_of_that_before_commit file_name ==> to restore deleted file.
+
+
+
+git diff => This command is used to see the difference between current and previous change in same file
+
+git stash => It is used to temporarily save the local and uncommitted changes in the file of any branch
+
+git stash pop => It is used to retrieve the stashed file on branch
+
+git stash apply stash[any_number] => It is used to apply stashed file in any branch
